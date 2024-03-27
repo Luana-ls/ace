@@ -109,6 +109,8 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o início
 
 *  ** Luana Silva ** - * Desenvolvedora * - [Luana-s] (https://github.com/Luana-s) 
 *  ** Maria Rikele ** - * Documentação * - [ mrikele] ( https://github.com/mrikele )
+*  ** Maria Vitória ** - * Desenvolvedora * - [ mrikele] ( https://github.com/mrikele )
+*  ** Maria Izabel** - * Documentação * - [ mrikele] ( https://github.com/mrikele )
 
 Você também pode ver a lista de todos os [ colaboradores ] ( https://github.com/usuario/projeto/colaboradores ) que participaram deste projeto.
 
