@@ -12,9 +12,6 @@ Consulte ** [ Implantação ] ( #-implanta%C3%A7%C3%A3o ) ** para saber como imp
 
 O que você precisa para instalar o software e como congelá-lo?
 
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
@@ -22,12 +19,14 @@ Uma série de exemplos passo a passo que informam o que você deve executar para
 
 Diga como essa etapa será:
 
-###Front end
+### Front end
 
 1- instalar o node
 
  No windows: baixe o instalador do Node.js para Windows no site oficial (https://nodejs.org/).
+ 
  Execute o instalador e seguia as instruções de instalação padrão.
+ 
  Após a instalação, verifique se o Node.js e o npm estão instalados corretamente executando node -v e npm -v no prompt de comando do Windows.
 
 
@@ -54,9 +53,13 @@ Depois que todas as dependências forem instaladas com sucesso, você pode inici
 ```
 npm run dev
 
+```
+
+### Backend
+
+Em construção
 
 
-E
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
