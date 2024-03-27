@@ -30,6 +30,8 @@ Diga como essa etapa será:
  Após a instalação, verifique se o Node.js e o npm estão instalados corretamente executando node -v e npm -v no prompt de comando do Windows.
 
 
+
+
  No linux :
 
  
@@ -54,6 +56,9 @@ Depois que todas as dependências forem instaladas com sucesso, você pode inici
 npm run dev
 
 ```
+Acesse a url 
+
+
 
 ### Backend
 
@@ -109,10 +114,11 @@ Nós usamos [ SemVer ] ( http://semver.org/ ) para controle de versão. Para as 
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o início
 
-*  ** Luana Silva ** - * Desenvolvedora * - [Luana-s] (https://github.com/Luana-s) 
+*  ** Luana Silva ** - * Desenvolvedora * - [Luana-s] (https://github.com/Luana-s)
+*  ** Maria Izabel** - * Documentação * - [ btwbel] ( https://github.com/btwbel)
 *  ** Maria Rikele ** - * Documentação * - [ mrikele] ( https://github.com/mrikele )
 *  ** Maria Vitória ** - * Desenvolvedora * - [ m-vitoria] ( https://github.com/m-vitoria )
-*  ** Maria Izabel** - * Documentação * - [ mrikele] ( https://github.com/mrikele )
+
 
 Você também pode ver a lista de todos os [ colaboradores ] ( https://github.com/usuario/projeto/colaboradores ) que participaram deste projeto.
 
