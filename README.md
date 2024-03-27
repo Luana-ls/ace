@@ -25,7 +25,7 @@ Diga como essa etapa será:
 
  No windows: baixe o instalador do Node.js para Windows no site oficial (https://nodejs.org/).
  
- Execute o instalador e seguia as instruções de instalação padrão.
+ Execute o instalador e segua as instruções de instalação padrão.
  
  Após a instalação, verifique se o Node.js e o npm estão instalados corretamente executando node -v e npm -v no prompt de comando do Windows.
 
@@ -58,6 +58,8 @@ npm run dev
 ### Backend
 
 Em construção
+
+
 
 
 
@@ -109,7 +111,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o início
 
 *  ** Luana Silva ** - * Desenvolvedora * - [Luana-s] (https://github.com/Luana-s) 
 *  ** Maria Rikele ** - * Documentação * - [ mrikele] ( https://github.com/mrikele )
-*  ** Maria Vitória ** - * Desenvolvedora * - [ mrikele] ( https://github.com/mrikele )
+*  ** Maria Vitória ** - * Desenvolvedora * - [ m-vitoria] ( https://github.com/m-vitoria )
 *  ** Maria Izabel** - * Documentação * - [ mrikele] ( https://github.com/mrikele )
 
 Você também pode ver a lista de todos os [ colaboradores ] ( https://github.com/usuario/projeto/colaboradores ) que participaram deste projeto.
